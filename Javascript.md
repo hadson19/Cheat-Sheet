@@ -4,3 +4,7 @@ https://github.com/coodict/javascript-in-one-pic
 
 ### ES6 
 http://jamesknelson.com/es6-cheatsheet.png
+
+https://pbs.twimg.com/media/CJVjZQVVAAEUqup.png
+
+http://jamesknelson.com/grokking-es6-promises.png
